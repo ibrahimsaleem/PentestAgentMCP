@@ -1,0 +1,2 @@
+# PentestAgentMCP
+Repository for creating an automatic pentesting agent using MCP servers.
